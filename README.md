@@ -2,7 +2,7 @@
 
 <!--<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khushalshaarma/khushalshaarma/main/banner.png.png" />
+  <img src="https://raw.githubusercontent.com/khushalshaarma/khushalshaarma/main/banner.gif" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Khushal Sharma</h1>
